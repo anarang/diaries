@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.3.1'
+gem 'github-pages'
+gem 'jekyll-paginate'
+gem 'rack-jekyll'
+
+gem 'jekyll'
+gem 'kramdown'
+gem 'rake'
+gem 'puma'
